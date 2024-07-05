@@ -104,7 +104,7 @@ const config: z.input<typeof Schema_Config> = {
      *
      * Default: 100MB
      */
-    streamMaxSize: 0 * 1024 * 1024,
+    streamMaxSize: 0 * 1920 * 1080,
 
     /**
      * Special file name that will be used for certain purposes
